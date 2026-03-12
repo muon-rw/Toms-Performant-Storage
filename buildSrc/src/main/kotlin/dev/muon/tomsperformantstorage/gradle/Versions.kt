@@ -22,11 +22,4 @@ object Versions {
     const val MIXIN_EXTRAS = "0.5.3"
 
     const val JAVA = 17
-
-    const val ARCHITECTURY = "9.2.14"
-
-    const val FTB_TEAMS = "2001.3.2"
-    const val FTB_LIBRARY = "2001.2.12"
-
-    const val IRONS_SPELLS = "1.20.1-3.15.0"
 }

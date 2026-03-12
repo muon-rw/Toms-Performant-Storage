@@ -51,9 +51,6 @@ dependencies {
     compileOnly("io.github.llamalad7:mixinextras-common:${Versions.MIXIN_EXTRAS}")
     annotationProcessor("io.github.llamalad7:mixinextras-common:${Versions.MIXIN_EXTRAS}")
     compileOnly("net.fabricmc:sponge-mixin:${Versions.FABRIC_MIXIN}")
-
-    compileOnly("dev.ftb.mods:ftb-library-forge:${Versions.FTB_LIBRARY}")
-    compileOnly("dev.ftb.mods:ftb-teams-forge:${Versions.FTB_TEAMS}")
 }
 
 configurations {
