@@ -141,7 +141,7 @@ publishMods {
     changelog = rootProject.file("CHANGELOG.md").readText()
     displayName = "Forge-${Versions.MOD}+${Versions.MINECRAFT}"
     version = "${Versions.MOD}+${Versions.MINECRAFT}-forge"
-    type = STABLE
+    type = ALPHA
 
     curseforge {
         projectId = Properties.CURSEFORGE_PROJECT_ID

@@ -122,7 +122,7 @@ publishMods {
     changelog = rootProject.file("CHANGELOG.md").readText()
     displayName = "Fabric-${Versions.MOD}+${Versions.MINECRAFT}"
     version = "${Versions.MOD}+${Versions.MINECRAFT}-fabric"
-    type = STABLE
+    type = ALPHA
 
     curseforge {
         projectId = Properties.CURSEFORGE_PROJECT_ID
