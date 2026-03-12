@@ -1,7 +1,7 @@
 package dev.muon.tomsperformantstorage.gradle
 
 object Versions {
-    const val MOD = "0.1.1"
+    const val MOD = "0.1.0"
 
     const val MINECRAFT = "1.20.1"
     const val PARCHMENT_MINECRAFT = "1.20.1"
